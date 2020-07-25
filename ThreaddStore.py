@@ -106,7 +106,6 @@ green&white;,;09/15/17,   Gail Phelps   ;,;$30.52
 ;,;   $22.66   ;,; green&white&blue;,;09/15/17"""
 
 #------------------------------------------------
-# Start coding below!
 #name price color date
 colors = ['red','yellow','green','white','black','blue','purple']
 
