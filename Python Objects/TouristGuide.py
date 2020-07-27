@@ -14,7 +14,7 @@ def get_traveller_location(traveller):
 def add_attraction(destination,attraction):
   try:
     destination_index=get_destination_index(destination)
-    attractions_for_destination=attractions[destination_index].append(attraction)
+    attractions[destination_index].append(attraction)
     return
   except:
     print("Error here")
