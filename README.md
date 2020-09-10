@@ -1,1 +1,1 @@
-![Alt text](Docs/cert.png?raw=true "Title")
+![Alt text](Docs/cert.PNG?raw=true "Title")
